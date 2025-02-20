@@ -54,8 +54,9 @@
 </div>
 
 ###
-<iframe src="https://giphy.com/embed/ncpQ1fTbAEkKkgEDV8" width="480" height="456" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-<p><a href="https://giphy.com/gifs/ncpQ1fTbAEkKkgEDV8">via GIPHY</a></p>
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW1ua3h1dWIwM3VuNDRjZWx1MWh3Z2l6cGMzZWNlcm9uY3k3dXNjdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ncpQ1fTbAEkKkgEDV8/giphy.gif" style="max-width:100%" />
+
 
 
 
@@ -78,7 +79,7 @@ I plan on doing all I can to delve into the vast wealth of knowledge head first.
 <table>
   <tbody><tr>
     <td width="50%" valign="top">
-      <h3><a></a>MintSite</h3> 
+      <h3><a></a>Personal Website</h3> 
         <br>
         <p><a href="https://mintsiteforall.netlify.app" rel="follow">Visit Site</a></p>
         <br>
