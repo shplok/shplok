@@ -54,8 +54,9 @@
 </div>
 
 ###
+<iframe src="https://giphy.com/embed/ncpQ1fTbAEkKkgEDV8" width="480" height="456" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<p><a href="https://giphy.com/gifs/ncpQ1fTbAEkKkgEDV8">via GIPHY</a></p>
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW1ua3h1dWIwM3VuNDRjZWx1MWh3Z2l6cGMzZWNlcm9uY3k3dXNjdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ncpQ1fTbAEkKkgEDV8/giphy.gif" alt="GIF" />
 
 
 ###
