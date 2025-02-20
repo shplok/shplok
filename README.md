@@ -75,7 +75,7 @@
 
 ###
 
-<img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2022/09/icegif-701.gif" style="width: 250px; height: auto; border-radius: 10px;"/>
+<img align="right" height="150" <!--- src="https://www.icegif.com/wp-content/uploads/2022/09/icegif-701.gif" ---> style="width: 250px; height: auto; border-radius: 10px;"/>
 
 ###
 
