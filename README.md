@@ -65,7 +65,7 @@ majoring in Computer Science and currently in my junior year
 at the University of Massachusetts - Boston
 I am engaged, coachable, and respectful inside and outside the workplace.
 I find machine learning and artificial intelligence extremely interesting, and I hope to
-continue my education, while strengthening my overall understanding of Computer Science.With a general focus on machine learning and artificial intelligence,
+continue my education, while strengthening my overall understanding of Computer Science. With a general focus on machine learning and artificial intelligence,
 I intend to pursue A.I. integration in software as well as recommendation software.
 Keeping in consideration how multi-faceted software engineering is,
 I plan on doing all I can to delve into the vast wealth of knowledge head first.</p>
