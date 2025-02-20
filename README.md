@@ -79,7 +79,16 @@
 
 ###
 
-<p align="center">I am a full stack software engineer with a passion for AI and a broad skill set that includes Python, Java, C, HTML, CSS, JavaScript, Node.js, React, and MongoDB. With a deep understanding of both front-end and back-end development, I have gained the knowledge and passion for building user-friendly applications for everyone. My dream is to combine my passion for software development with a career that has the potential to bring positive change and improve not only my life but also the lives of others around me.</p>
+<p align="center">Hello! My name is Sawyer Bowerman
+I am currently pursuing a Bachelor's Degree of Science,
+majoring in Computer Science and currently in my junior year
+at the University of Massachusetts - Boston
+I am engaged, coachable, and respectful inside and outside the workplace.
+I find machine learning and artificial intelligence extremely interesting, and I hope to
+continue my education, while strengthening my overall understanding of Computer Science.With a general focus on machine learning and artificial intelligence,
+I intend to pursue A.I. integration in software as well as recommendation software.
+Keeping in consideration how multi-faceted software engineering is,
+I plan on doing all I can to delve into the vast wealth of knowledge head first.</p>
 
 <article>
       <div>
@@ -112,11 +121,11 @@
       </div>
   </div>
 
-<picture align="center">
+<!--- <picture align="center">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shplok/shplok/output/snake-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shplok/shplok/output/snake-dark.svg">
   <img align="center" src="https://raw.githubusercontent.com/shplok/shplok/output/snake.svg" alt="Snake animation" />
-</picture>
+</picture> --->
 
 ###  
 
