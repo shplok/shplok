@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Amir Ayed and I'm a Software Engineer, from Boston!</h2>
+<h2 align="center">Hi 👋! My name is Sawyer Bowerman</h2>
 
 ###
 <div align="center">
