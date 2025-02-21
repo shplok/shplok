@@ -42,17 +42,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/sawyerbowerman/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="soyasoyasoya" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="sawyerbowerman2@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
 ###
 <a>
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW1ua3h1dWIwM3VuNDRjZWx1MWh3Z2l6cGMzZWNlcm9uY3k3dXNjdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ncpQ1fTbAEkKkgEDV8/giphy.gif" style="max-width:100%;"/>
@@ -76,6 +65,17 @@ I plan on doing all I can to delve into the vast wealth of knowledge head first.
 
     
   </div>
+
+  <div align="center">
+  <a href="https://www.linkedin.com/in/sawyerbowerman/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="soyasoyasoya" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="sawyerbowerman2@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
 
 <!--- <picture align="center">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shplok/shplok/output/snake-light.svg">
