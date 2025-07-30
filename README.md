@@ -53,7 +53,7 @@
 
 <p align="center">Hello! My name is Sawyer Bowerman
 I am currently pursuing a Bachelor's Degree of Science,
-majoring in Computer Science and currently in my junior year
+majoring in Computer Science and currently in my senior year
 at the University of Massachusetts - Boston. <br><br>
 I am engaged, coachable, and respectful inside and outside the workplace.
 I find machine learning and artificial intelligence extremely interesting, and I hope to
